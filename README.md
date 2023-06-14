@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **SQL and Python**
 
-- 👨‍💻 All of my projects are available at [https://warrior-xena-works.com/](https://warrior-xena-works.com/)
-
 - 💬 Ask me about **market research and  data analytics**
 
 - 📫 You can reach me at **znenglish@live.com**
