@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I enjoy playing video games**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/znenglish/</h3>
 <p align="left">
 </p>
 
