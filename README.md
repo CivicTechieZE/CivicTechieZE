@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zana English</h1>
-<h3 align="center">A passionate Frontend Developer from the United States interested in Civic Tech</h3>
+<h3 align="center">A passionate Frontend Developer & Data Analyst from the United States interested in Civic Tech</h3>
 
 - 🔭 I’m currently working on **civic data**
 
